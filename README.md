@@ -546,12 +546,6 @@ Workshop sürecinde edinilen teorik bilgilerin Python tabanlı uygulamalar, sim�
 
 ---
 
-## 📜 License
-
-Bu repository'nin kullanım ve lisans koşulları için repository içerisindeki lisans dosyasını inceleyiniz.
-
----
-
 <div align="center">
 
 ### 🚀 From Sensors to Autonomy
